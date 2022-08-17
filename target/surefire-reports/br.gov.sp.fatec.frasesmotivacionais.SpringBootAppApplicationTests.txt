@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: br.gov.sp.fatec.frasesmotivacionais.SpringBootAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.181 s <<< FAILURE! - in br.gov.sp.fatec.frasesmotivacionais.SpringBootAppApplicationTests
+br.gov.sp.fatec.frasesmotivacionais.SpringBootAppApplicationTests  Time elapsed: 0.18 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
